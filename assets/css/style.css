@@ -1,11 +1,49 @@
 body {
-  background-color: #ffe4ec;  /* light pink */
+  background-color: #edd9ca;  /* light pink */
 }
 
-h1, h2, h3 {
-  color: #e75480;
+h1 {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #5d4f4c;              /* dark text */
+  display: inline-block;        /* so background wraps text */
+  background: #ffffff;          /* white background */
+  padding: 0.25em 1em;          /* space inside the box */
+  border-radius: 0.5em;         /* rounded corners */
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1); /* subtle shadow */
+}
+
+h2 {
+  font-size: 1.8em;
+  font-weight: 600;
+  color: #6c4f6d;               /* darker pink/purple for variety */
+  display: inline-block;
+  background: #ffffff;
+  padding: 0.2em 0.8em;
+  border-radius: 0.4em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* H3 style */
+h3 {
+  font-size: 1.4em;
+  font-weight: 500;
+  color: #8b5e7e;               /* lighter pink/purple */
+  display: inline-block;
+  background: #ffffff;
+  padding: 0.15em 0.6em;
+  border-radius: 0.35em;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
 
 a {
   color: #d63384;
+}
+
+/* Import cute Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Apply it to the whole website */
+body {
+  font-family: 'Quicksand', sans-serif;
 }
