@@ -1,3 +1,20 @@
+.site-header {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #f5e6d3;
+  border-bottom: 2px solid #e2d4c0;
+}
+
+.site-header h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+
+.site-header p {
+  font-size: 1.2em;
+  color: #5d4f4c;
+}
+
 body {
   background-color: #edd9ca;  /* light pink */
 }
