@@ -34,3 +34,17 @@ a {
   text-decoration: none;
   font-weight: 600;
 }
+
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-header {
+  background-color: #ffffff;  /* white box */
+  border-radius: 1em;         /* rounded corners */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1); /* soft shadow */
+  padding: 1.5em 2em;         /* space inside the box */
+  max-width: 700px;           /* optional width */
+  margin: 1em auto;           /* center horizontally */
+}
