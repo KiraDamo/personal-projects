@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="assets/css/style.css">
-<div class="header-box">Kira's Portfolio</div>
+<h1 class="header-box">Kira's Portfolio</h1>
 <div class="section-box">
 Welcome to My Personal Portfolio 
 
