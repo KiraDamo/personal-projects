@@ -1,11 +1,11 @@
 /* Background */
 body {
   background-color: #edd9ca; /* similar warm beige */
-  font-family: 'Quicksand'/* playful rounded font */
+  font-family: 'Quicksand', 'Nunito'/* playful rounded font */
   color: #4a3c32; /* warm dark brown text */
   margin: 0;
   padding: 20px;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 /* Main containers */
