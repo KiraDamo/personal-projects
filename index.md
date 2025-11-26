@@ -2,10 +2,6 @@
 
 <h1 class="header-box">Kira's Portfolio</h1>
 
-<div class="header-box">
-Data Science · Art · Creativity  
-</div>
-
 <div class="section-box">
 Welcome to My Personal Portfolio 
 
