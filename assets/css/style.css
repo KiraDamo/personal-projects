@@ -20,6 +20,18 @@ body {
   font-weight: 700;
 }
 
+.header-box {
+  background-color: #fff8f0; /* very light cream */
+  border-radius: 1em;
+  padding: 1.5em 2em;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  display: inline-block;
+  margin-bottom: 1.5em;
+  font-size: 2.5em;
+  font-weight: 700;
+  border: 1px solid #f0e4d8; /* soft warm border */
+}
+
 /* Section box (intro/about me) */
 .section-box {
   background-color: #fff8f0; /* very light warm cream */
@@ -64,3 +76,27 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Project/art boxes with cozy accent */
+.rounded-box {
+  background-color: #fffaf5; /* slightly warmer cream */
+  border-radius: 1em;
+  padding: 1.5em 2em;
+  margin: 1em auto;
+  max-width: 700px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  border: 1px solid #f0e4d8; /* soft tan border */
+}
+
+.rounded-box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+  transition: all 0.3s ease;
+}
+
+.divider {
+  border-bottom: 2px solid #f0e4d8;
+  margin: 1em 0;
+}
+
+
