@@ -43,3 +43,4 @@ The Database includes the following tables:
   </li>
 </ol>
 
+All data will be in their own separate csv files. Data is manually entered from Tracker.gg.
