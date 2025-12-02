@@ -8,5 +8,9 @@ The data is confined to ONLY competitive matches in V25:A6. All points are manua
 Whoever finds this project and would like to see riveting Valorant gameplay,
 please follow my friends on Twitch!
 
-Ace SD: https://www.twitch.tv/ace_sd
-Raisu: https://www.twitch.tv/rrraisuuu
+<p>
+  Ace SD: https://www.twitch.tv/ace_sd
+</p>
+<p>
+  Raisu: https://www.twitch.tv/rrraisuuu
+</p>
