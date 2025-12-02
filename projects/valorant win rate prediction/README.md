@@ -1,4 +1,4 @@
-##Valorant Win Rate Prediction
+<h>Valorant Win Rate Prediction</h>
 
 In this Project, I gather the matches of two of my friends to predict which variable contributes the most to the win rate of their matches.
 
